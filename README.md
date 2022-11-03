@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MCMocoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCMocoder&count_private=true&hide=stars&bg_color=FFFFFF&title_color=66CCFF&icon_color=39C5BB&locale=us&text_color=&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![MCMocoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCMocoder&count_private=true&hide=stars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![BitterVan's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bittervan&exclude=bustub-private&layout=compact&hide_border=true&langs_count=10&theme=onedark)
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <a href="https://www.vim.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.qemu.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/qemu/qemu-icon.svg" alt="QEMU" width="40" height="40"/> </a>
 </p>
