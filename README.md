@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MCMocoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCMocoder&count_private=true&hide=stars&hide_border=true&bg_color=#FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![MCMocoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCMocoder&count_private=true&hide=stars&hide_border=true&bg_color=#FFFFFF&title_color=#66CCFF&icon_color=#39C5BB&text_color=#000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
