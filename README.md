@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MCMocoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCMocoder&count_private=true&hide=stars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![MCMocoder's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MCMocoder&exclude=bustub-private&layout=compact&hide_border=true&langs_count=10&theme=onedark)
+[![MCMocoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCMocoder&count_private=true&hide=stars&hide_border=true&bg_color=#FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -30,6 +28,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--
+![MCMocoder's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MCMocoder&exclude=bustub-private&layout=compact&hide_border=true&langs_count=10&theme=onedark)
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
